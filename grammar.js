@@ -1,5 +1,5 @@
 /**
- * @file Objective-C grammar for tree-sitter
+ * @file mulle-objc Objective-C grammar for tree-sitter
  * @author Amaan Qureshi <amaanq12@gmail.com>
  * @license MIT
  */
